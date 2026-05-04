@@ -101,7 +101,7 @@ if(isset($_POST['submit']))
      attendance_percentage =''
     ";
 
-    $res = mysqli_query($conn, $sql) or die(mysql_error());
+    $res = mysqli_query($conn, $sql) or die(mysqli_error($conn));
 
     if($res == TRUE)
     {
