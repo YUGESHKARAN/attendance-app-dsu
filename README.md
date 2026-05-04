@@ -9,20 +9,26 @@
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YUGESHKARAN/dsu)
+![GitHub license](https://img.shields.io/github/license/YUGESHKARAN/dsu)
 ![GitHub stars](https://img.shields.io/github/stars/YUGESHKARAN/dsu?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/YUGESHKARAN/dsu?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/YUGESHKARAN/dsu)
+![Closed Issues](https://img.shields.io/badge/closed%20issues-0-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/YUGESHKARAN/dsu)
+![Open Pull Requests](https://img.shields.io/badge/open%20pull%20requests-0-blue)
+![Closed Pull Requests](https://img.shields.io/badge/closed%20pull%20requests-4-orange)
 ![GitHub contributors](https://img.shields.io/github/contributors/YUGESHKARAN/dsu)
-![GitHub license](https://img.shields.io/github/license/YUGESHKARAN/dsu)
+
+
+
 
 
 </div>
 
-## Overview
 
 This project delivers a web-based Attendance Management System designed to solve common issues in traditional systems, like inefficient faculty interfaces and the time-consuming process of analyzing and visualizing student data with SQL queries. Leveraging modern web technologies and AI, our system provides a responsive, scalable solution that enhances both usability and data management efficiency.
+
+---
 
 ## Key Features
 
