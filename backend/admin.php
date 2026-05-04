@@ -1,4 +1,5 @@
 <?php include('./partials/front.php');
+
 ?>
 <body>
 <div class="adcontainer">
